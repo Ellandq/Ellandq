@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elland</h1>
 <h3 align="center">A young developer looking to put my practice to the test</h3>
 
-- 🔭 I’m currently working on [a recreation of a HOMM IV inspired game](https://github.com/Ellandq/Heroes-Like-game)
+- 🔭 I’m currently working on:
+     [A generic implementation of different pathfinding algorithms in multiple languages](https://github.com/Ellandq/Pathfinding)
+     [a recreation of a HOMM IV inspired game](https://github.com/Ellandq/Heroes-Like-game)
 
 - 🌱 I’m currently learning **python and java**
-
-- 📫 How to reach me **waselland@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
