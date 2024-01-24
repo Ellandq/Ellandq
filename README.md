@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elland</h1>
 <h3 align="center">A young developer looking to put my practice to the test</h3>
 
-- 🔭 I’m currently working on:
-     [A generic implementation of different pathfinding algorithms in multiple languages](https://github.com/Ellandq/Pathfinding)
-     [a recreation of a HOMM IV inspired game](https://github.com/Ellandq/Heroes-Like-game)
+🔭 Current Projects:
+
+1. [Pathfinding Algorithms Implementation](https://github.com/Ellandq/Pathfinding) - A versatile implementation of various pathfinding algorithms in multiple programming languages.
+
+2. [Heroes-Like Game Recreation](https://github.com/Ellandq/Heroes-Like-game) - A project dedicated to recreating a game inspired by Heroes of Might and Magic IV.
 
 - 🌱 I’m currently learning **python and java**
 
