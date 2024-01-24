@@ -7,7 +7,7 @@
 
 2. [Heroes-Like Game Recreation](https://github.com/Ellandq/Heroes-Like-game) - A project dedicated to recreating a game inspired by Heroes of Might and Magic IV.
 
-- 🌱 I’m currently learning **python and java**
+🌱 I’m currently learning how to work on Spring Boot infrastructure and expending my knowledge on Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
