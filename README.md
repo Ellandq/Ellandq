@@ -5,7 +5,9 @@
 
 1. [Pathfinding Algorithms Implementation](https://github.com/Ellandq/Pathfinding) - A versatile implementation of various pathfinding algorithms in multiple programming languages.
 
-2. [Heroes-Like Game Recreation](https://github.com/Ellandq/Heroes-Like-game) - A project dedicated to recreating a game inspired by Heroes of Might and Magic IV.
+2. [Immersive-Sim](https://github.com/Ellandq/Immersive-Sim) - A game in the genre of an immersive sim RPG set in fantasy setting.
+   
+3. [Heroes-Like Game Recreation](https://github.com/Ellandq/Heroes-Like-game) - A project dedicated to recreating a game inspired by Heroes of Might and Magic IV.
 
 🌱 I’m currently learning how to work on Spring Boot infrastructure and expending my knowledge on Python
 
